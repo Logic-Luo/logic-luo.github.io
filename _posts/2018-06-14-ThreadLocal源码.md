@@ -8,8 +8,7 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - ThreadLocal
-    - 多线程
-    - 源码
+    - java
 ---
 ThreadLocal类能使线程中的某个值与保存值的对象关联起来，每个使用该变量的线程都存有一份独立的副本。
 

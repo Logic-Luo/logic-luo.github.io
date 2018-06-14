@@ -8,8 +8,6 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - spring
-    - jar
-    - spring 各个jar的作用
 ---
 
 ##1. spring-core.jar

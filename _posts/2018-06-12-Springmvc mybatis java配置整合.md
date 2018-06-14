@@ -7,10 +7,9 @@ author:     Logic
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Springmvc mybatis java配置整合
+    - Spring
     - spring mvc
     - mybatis
-    - java config
 ---
 
 ​    从Servlet3.0以后，在发布web项目的时候都已经支持Java的配置了，本文将Spring mvc、Mybatis进行整个，并利用Maven的方式将进行构建，采取`Java`的方式进行配置，做到除了`pom.xml`以外，做到项目的零xml的配置。
